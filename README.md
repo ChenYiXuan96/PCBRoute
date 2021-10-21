@@ -1,3 +1,6 @@
+## Solving combinatorial reinforcement learning problems using RL
+
+This is the code for my dissertation in University of Bath. The dissertation mainly focuses on solving printed circuit board (PCB) routing problem that is classified as a combinatorial optimisation problem using reinforcement learning (RL). In this project, the attention model is built to produce routes, and rather than supervised learning, policy gradient is used to train the model. In addition, basical imitation learning method is also implemented to speed up the training process as well as improve the model. Besides, successive halving is used to tune the hyper-parameters.
 
 ## Dependencies
 
